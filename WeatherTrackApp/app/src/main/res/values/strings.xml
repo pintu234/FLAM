@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherTrack</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="api_error">API returned error.</string>
+    <string name="fetch_error">Failed to fetch weather.</string>
+    <string name="db_error">Database error.</string>
+</resources>
